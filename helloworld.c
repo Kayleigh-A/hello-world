@@ -2,6 +2,6 @@
 
 int main() {
   // Adding a comment to our hello-world file!
-  printf("Hello, World!\n");
+  printf("hello world\n");
   return 0;
 }
